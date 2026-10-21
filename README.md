@@ -1,6 +1,10 @@
 # Translational readthrough CNN
 
-S2 CNN code and five pretrained model weights. Data are not included; supply your own RNA sequences.
+CNN code and five pretrained model weights for the paper:
+
+**Neuronal stop-codon readthrough is associated with ribosome pausing and appends lineage-restricted extensions that can alter protein localization in Drosophila**
+
+The model follows Figure S2. Data are not included; supply your own RNA sequences.
 
 ## Install
 
